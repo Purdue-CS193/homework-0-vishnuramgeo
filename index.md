@@ -1,5 +1,10 @@
+# Vishnu's first CS193 Homework
 ## Welcome to GitHub Pages
-# Hello World!
+
+What I like about CS193:
+- It's a computer science course
+- It's interesting
+- I get to learn about Github
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
