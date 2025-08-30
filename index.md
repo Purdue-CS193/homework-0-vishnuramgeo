@@ -2,9 +2,11 @@
 ## Welcome to GitHub Pages
 
 What I like about CS193:
-- It's a computer science course
-- It's interesting
-- I get to learn about Github
+- **It's a computer science course**
+- _It's interesting_
+- `I get to learn about Github`
+
+[purdue](https://purdue.edu/)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
